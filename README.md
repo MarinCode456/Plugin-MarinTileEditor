@@ -12,7 +12,13 @@
 
 Ниже я прикреплю некоторые аспекты плагина, а также ссылку на туториал по этому плагину, который делала наша команда.
 
-## Туториал и скриншоты плагина
+## Cкриншоты плагина и туториал
+
+<p align="center">
+      <img src="https://sun9-40.userapi.com/impg/dtBDP-C1QqSUemq1sycnrBWZLA2wzX-ovh3RvQ/qJMdyDb2yrQ.jpg?size=1400x800&quality=96&sign=a4a28803c92a78e39e6e2a81f66f925d&type=album" width="800">
+      <img src="https://sun9-27.userapi.com/impg/KIT4qrjo05tvmzUXPnsaJwQEVfmFg1FBFtPlWw/Jmm-zLt21Ug.jpg?size=1400x800&quality=96&sign=2bcaaf853d27e2d43bd756c1b85970b1&type=album" width="800">
+      <img src="https://sun9-32.userapi.com/impg/ocwHgEKlozFCY__4s5XzClrruYS6PJZYbW8FYg/Goxru4ObuWw.jpg?size=1400x800&quality=96&sign=99b54025dc673df2eabdc21a2cafc107&type=album" width="800">
+</p>
 
 <p align="center">Для просмотра туториала по плагину нажмите на картинку:</p>
 
