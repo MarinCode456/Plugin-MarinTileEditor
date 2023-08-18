@@ -1,0 +1,21 @@
+name: MarinTileEditor
+version: '${project.version}'
+main: marintileeditor.main.TileManager.TileManager.Main.Main
+api-version: 1.18
+depend:
+  - dynmap
+  - WorldGuard
+  - PlaceholderAPI
+commands:
+  marinTile:
+    description: Создаёт тайл, на основе первой точки
+    usage: /<command>
+  mb:
+    description: Команда для управления плагином
+    usage: /<command>
+  invite:
+    description: Добавляет игрока в государство
+    usage: /<command>
+  desinvite:
+    description: Отменяет приглашение в государство
+    usage: /<command>
